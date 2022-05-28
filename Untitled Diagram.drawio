@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T09:42:34.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="mpYCIuF2KUHYBYq3nUb2" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T09:42:46.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="TX0rSUfx9gaGTJnYiFIB" version="18.1.1" type="github">
   <diagram id="DA2Qiv1e6fWK6ssefBED" name="Page-1">
     <mxGraphModel dx="1914" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,9 +182,6 @@
             <mxPoint x="630" y="429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x9HyxU4pL3DoHxPURY9i-87" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Сервер-СУБД&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="657.4" y="474" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="x9HyxU4pL3DoHxPURY9i-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;endArrow=none;endFill=0;exitX=0.509;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="x9HyxU4pL3DoHxPURY9i-25" target="x9HyxU4pL3DoHxPURY9i-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -256,6 +253,9 @@
         </mxCell>
         <mxCell id="x9HyxU4pL3DoHxPURY9i-79" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#2072B8;fontSize=14;opacity=80;" vertex="1" parent="x9HyxU4pL3DoHxPURY9i-102">
           <mxGeometry x="49" width="22" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="x9HyxU4pL3DoHxPURY9i-87" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Сервер-СУБД&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;opacity=80;" vertex="1" parent="x9HyxU4pL3DoHxPURY9i-102">
+          <mxGeometry x="230" y="100" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
