@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T09:34:36.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="ini6_UkJFN2XtZsTLi5B" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T09:36:56.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.53" etag="3IiViJxD3i_-77CwckEH" version="18.1.1" type="github">
   <diagram id="DA2Qiv1e6fWK6ssefBED" name="Page-1">
     <mxGraphModel dx="1751" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
           <mxGeometry x="550" y="391" width="64.6" height="76" as="geometry" />
         </mxCell>
         <mxCell id="x9HyxU4pL3DoHxPURY9i-79" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#2072B8;fontSize=14;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="480" y="400" width="22" height="140" as="geometry" />
+          <mxGeometry x="480" y="370" width="22" height="200" as="geometry" />
         </mxCell>
         <mxCell id="x9HyxU4pL3DoHxPURY9i-85" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="610" y="370" width="270" height="110" as="geometry" />
@@ -205,6 +205,12 @@
         </mxCell>
         <mxCell id="x9HyxU4pL3DoHxPURY9i-88" value="&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Гипервизор: VMware ESXi;&lt;/li&gt;&lt;li&gt;ОС: Linux;&lt;/li&gt;&lt;li&gt;СЗИ от НСД;&lt;/li&gt;&lt;li&gt;Средства антивирусной защиты.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="610" y="470" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="x9HyxU4pL3DoHxPURY9i-89" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database;fillColor=#2072B8;fontSize=14;opacity=80;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="22" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="x9HyxU4pL3DoHxPURY9i-90" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Изолированная &lt;br&gt;виртуальная сеть&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=15;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="431" y="570" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
